@@ -1,4 +1,4 @@
-### 🛂 **Sales API - IDBI Challenge**  
+### 🛂 **Sales API **  
 
 Este es un **API RESTful** para la gestión de ventas y productos, desarrollado con **Laravel**. Permite registrar ventas, administrar productos, implementación de roles (admin y user) y generar reportes filtrados por fecha.  
 
